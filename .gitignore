@@ -22,4 +22,8 @@ paginas/*.csv
 data/paginas/*.csv
 paginas/*.* 
   
+# uv files
+uv/
+pyproject.toml
+pyproject.lock.toml
 
